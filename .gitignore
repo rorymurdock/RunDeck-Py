@@ -1,3 +1,8 @@
 *.pyc
 .vscode/
 .pytest_cache/
+build/
+dist/
+RunDeck.egg-info
+build.sh
+config/
