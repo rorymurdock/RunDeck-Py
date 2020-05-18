@@ -1,5 +1,5 @@
 import json
-from reqREST import REST
+from reqrest import REST
 
 class RunDeck():
     def __init__(self, url, auth, debug=False):
